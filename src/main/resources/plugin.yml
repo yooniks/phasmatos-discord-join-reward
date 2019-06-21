@@ -1,0 +1,6 @@
+name: 'Deward'
+version: ${project.version}
+main: 'xyz.yooniks.deward.DewardPlugin'
+authors: [yooniks]
+description: 'Join discord server and get some rewards!'
+website: 'www.github.com/yooniks'

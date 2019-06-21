@@ -1,0 +1,8 @@
+bot:
+  token: "xyz"
+  prefix: "!"
+  game: "Minecraft Rewards"
+  award:
+    command: "say {NICK}"
+    channel: "590790980559437825"
+users:
